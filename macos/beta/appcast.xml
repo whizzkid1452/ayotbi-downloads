@@ -3,6 +3,15 @@
     <channel>
         <title>Ayotbi</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 26 Nov 2026 17:39:10 +0900</pubDate>
+            <sparkle:version>0.1.2</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/whizzkid1452/ayotbi-downloads/releases/download/v0.1.2/Ayotbi-0.1.2-macos-arm64.dmg" length="112369575" type="application/octet-stream" sparkle:edSignature="BcRiUqodQM5SrpovFbe3v8WJ8ePSh9AQHVSsQjNyUP4cYjW/x9yoQo3JfEyB/J1EjG/12T2wYeR0lTsaH1dLBQ=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Thu, 26 Nov 2026 15:42:32 +0900</pubDate>
             <sparkle:version>0.1.1</sparkle:version>
